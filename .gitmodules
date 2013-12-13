@@ -1,0 +1,3 @@
+[submodule "railsSub"]
+	path = railsSub
+	url = git@github.com:marlonporto/rails.git
